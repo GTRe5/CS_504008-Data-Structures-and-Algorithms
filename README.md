@@ -1,1 +1,1 @@
-# CS_504008-Data-Structures-And-Algorithms
+# CS_504008-Data-Structures-and-Algorithms
